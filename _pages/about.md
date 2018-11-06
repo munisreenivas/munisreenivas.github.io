@@ -14,7 +14,7 @@ Previously, I have worked with [Prof. Ambedkar Dukkipati](https://drona.csa.iisc
 
 Papers
 ======
-1. **Pydi, Muni Sreenivas**, Varun Jog, and Po-Ling Loh. ["Graph-Based Ascent Algorithms for Function Maximization."](https://arxiv.org/abs/1802.04475) 56<sup>th</sup> Annual Allerton Conference on Communication, Control, and Computing, October 2018. (2018). 
+1. **Pydi, Muni Sreenivas**, Varun Jog, and Po-Ling Loh. ["Graph-Based Ascent Algorithms for Function Maximization."](https://arxiv.org/abs/1802.04475) Communication, Control, and Computing (Allerton), 2018 56th Annual Allerton Conference on. IEEE, 2018.
 1. **Pydi, Muni Sreenivas**, and Ambedkar Dukkipati. ["On Consistency of Compressive Spectral Clustering."](https://ieeexplore.ieee.org/abstract/document/8437911) 2018 IEEE International Symposium on Information Theory (ISIT). IEEE, 2018.
 1. Nagasubramanian, Karthik, and **Muni Sreenivas Pydi**. ["Random access retransmission scheme for power limited nodes."](https://ieeexplore.ieee.org/abstract/document/8077105) Communications (NCC), 2017 Twenty-third National Conference on. IEEE, 2017.
 1. Guha, Ashwin, **Muni Sreenivas Pydi**, Biswajit Paria, and Ambedkar Dukkipati. ["Analytic Connectivity in General Hypergraphs."](https://arxiv.org/abs/1701.04548) arXiv preprint arXiv:1701.04548 (2017).
