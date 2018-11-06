@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Muni Sreenivas Pydi"
 description              : &description "Masters student at UW-Madison"
 url                      : https://munisreenivas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/files" # the subpath of your site, e.g. "/blog"
 repository               : "munisreenivas/munisreenivas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
