@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can find my CV [here](/files/cv.pdf/).
+You can find my CV [here](https://munisreenivas.github.io/files/cv.pdf/).
