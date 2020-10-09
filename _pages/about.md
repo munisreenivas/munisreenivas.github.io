@@ -14,7 +14,7 @@ Previously, I have worked with [Prof. Ambedkar Dukkipati](https://drona.csa.iisc
 
 Papers
 ======
-1. Pydi, Muni Sreenivas, and Varun Jog. ["Adversarial Risk via Optimal Transport and Optimal Couplings."](https://arxiv.org/abs/1912.02794) arXiv (2019): arXiv-1912.
+1. Pydi, Muni Sreenivas, and Varun Jog. ["Adversarial Risk via Optimal Transport and Optimal Couplings."](https://proceedings.icml.cc/static/paper_files/icml/2020/2962-Paper.pdf) ICML, 2020.
 1. Pydi, Muni Sreenivas, and Vishnu Suresh Lokhande. ["Active Learning with Importance Sampling."](https://arxiv.org/abs/1910.04371) NeurIPS Workshop on ML with Guarantees,  2019.
 1. **Pydi, Muni Sreenivas**, Varun Jog, and Po-Ling Loh. ["Graph-Based Ascent Algorithms for Function Maximization."](https://arxiv.org/abs/1802.04475) Communication, Control, and Computing (Allerton), 2018 56th Annual Allerton Conference on. IEEE, 2018.
 1. **Pydi, Muni Sreenivas**, and Ambedkar Dukkipati. ["On Consistency of Compressive Spectral Clustering."](https://ieeexplore.ieee.org/abstract/document/8437911) 2018 IEEE International Symposium on Information Theory (ISIT). IEEE, 2018.
