@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Muni Sreenivas Pydi"
   avatar           : "profile_pic.jpg"
-  bio              : "Masters student in ECE at UW-Madison"
+  bio              : "PhD student in ECE at UW-Madison"
   location         : "Madison, WI"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=BT8j_-oAAAAJ&hl=en"
-  email            :
+  email            : "pydi@wisc.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "MuniSreenivas"
   vine             :
   weibo            :
   xing             :
