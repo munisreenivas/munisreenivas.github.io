@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 
 ---
-You can find my CV [<span style="color:blue">**here**</span>](/cv.pdf).
+You can find my CV [<span style="color:#5eafaf">**here**</span>](/cv.pdf).
