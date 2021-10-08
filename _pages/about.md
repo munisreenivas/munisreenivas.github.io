@@ -15,6 +15,7 @@ Previously, I have worked with [Prof. Ambedkar Dukkipati](https://drona.csa.iisc
 Papers
 ======
 1. **Muni Sreenivas Pydi** and Varun Jog. ["The Many Faces of Adversarial Risk."](https://munisreenivas.github.io/) Conference on Neural Information Processing Systems (NeurIPS), 2021.
+1. **Muni Sreenivas Pydi** and Varun Jog. ["Adversarial Risk via Optimal Transport and Optimal Couplings."](https://ieeexplore.ieee.org/document/9496634) IEEE Transactions on Information Theory, 2021.
 1. **Muni Sreenivas Pydi** and Varun Jog. ["Adversarial Risk via Optimal Transport and Optimal Couplings."](http://proceedings.mlr.press/v119/pydi20a/pydi20a.pdf) International Conference on Machine Learning (ICML), 2020.
 1. **Muni Sreenivas Pydi**, and Vishnu Suresh Lokhande. ["Active Learning with Importance Sampling."](https://arxiv.org/abs/1910.04371) NeurIPS Workshop on ML with Guarantees,  2019.
 1. **Muni Sreenivas Pydi**, Varun Jog, and Po-Ling Loh. ["Graph-Based Ascent Algorithms for Function Maximization."](https://arxiv.org/abs/1802.04475) Communication, Control, and Computing (Allerton), 2018 56th Annual Allerton Conference on. IEEE, 2018.
