@@ -12,6 +12,8 @@ Hi! I'm Muni, a fourth year PhD student in [ECE](https://www.engr.wisc.edu/depar
 
 Previously, I have worked with [Prof. Ambedkar Dukkipati](https://drona.csa.iisc.ac.in/~ambedkar/) in the [Statistics and Machine Learning Group](http://sml.csa.iisc.ernet.in/SML/) at [IISc Bangalore](https://www.iisc.ac.in/). Before that, I was a software engineer at [Samsung R&D Institute](https://research.samsung.com/sri-b) in Bangalore. I did my undergrad in [Electrical Engineering](http://www.ee.iitm.ac.in/) at [IIT Madras](https://www.iitm.ac.in/).
 
+You can find my CV [**here**](cv.pdf).
+
 Papers
 ======
 1. **Muni Sreenivas Pydi** and Varun Jog. ["The Many Faces of Adversarial Risk."](https://munisreenivas.github.io/) Conference on Neural Information Processing Systems (NeurIPS), 2021.
