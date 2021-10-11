@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Muni, a fourth year PhD student in [ECE](https://www.engr.wisc.edu/department/electrical-computer-engineering/) at [UW-Madison](https://www.wisc.edu/), advised by [Prof. Varun Jog](https://varunjog.github.io/). My current research interests are in the theoretical aspects of machine learning, especially adversarial learning and its relation to optimal transport.
+Hi! I'm Muni, a PhD student in [ECE](https://www.engr.wisc.edu/department/electrical-computer-engineering/) at [UW-Madison](https://www.wisc.edu/), advised by [Prof. Varun Jog](https://varunjog.github.io/). My current research interests are in the theoretical aspects of machine learning, especially adversarial learning and its relation to optimal transport.
 
 Previously, I have worked with [Prof. Ambedkar Dukkipati](https://drona.csa.iisc.ac.in/~ambedkar/) in the [Statistics and Machine Learning Group](http://sml.csa.iisc.ernet.in/SML/) at [IISc Bangalore](https://www.iisc.ac.in/). Before that, I was a software engineer at [Samsung R&D Institute](https://research.samsung.com/sri-b) in Bangalore. I did my undergrad in [Electrical Engineering](http://www.ee.iitm.ac.in/) at [IIT Madras](https://www.iitm.ac.in/).
 
