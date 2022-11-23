@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Muni Sreenivas Pydi"
 title_separator          : "-"
 name                     : &name "Muni Sreenivas Pydi"
-description              : &description "PhD student at UW-Madison"
+description              : &description "AI Fellow at Université PSL"
 url                      : https://munisreenivas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "munisreenivas/munisreenivas.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Muni Sreenivas Pydi"
   avatar           : "profile_pic.jpg"
-  bio              : "PhD student in ECE at UW-Madison"
-  location         : "Madison, WI"
+  bio              : "AI Fellow at Université PSL"
+  location         : "Paris, France"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=BT8j_-oAAAAJ&hl=en"
-  email            : "pydi@wisc.edu"
+  email            : "muni.pydi@lamsade.dauphine.fr"
   uri              :
   bitbucket        :
   codepen          :
