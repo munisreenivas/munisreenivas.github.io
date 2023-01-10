@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+[comment]: # this is a comment.
+
 Hi! I'm Muni, a Fellow in Artificial Intelligence at [Université PSL](https://psl.eu/en) (Paris Sciences & Letters). I am affiliated with the [LAMSADE](https://www.lamsade.dauphine.fr/en.html) research center at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/). I work closely with the [MILES](https://www.lamsade.dauphine.fr/wp/miles/members/) team members at LAMSADE. 
 
 I did my PhD in [ECE](https://www.engr.wisc.edu/department/electrical-computer-engineering/) at [UW-Madison](https://www.wisc.edu/), advised by [Prof. Varun Jog](https://varunjog.github.io/). My thesis was on the theoretical foundations of adversarial robustness in machine learning. 
