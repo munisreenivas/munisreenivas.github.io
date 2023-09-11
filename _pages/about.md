@@ -22,7 +22,7 @@ You can find my CV [**here**](/cv.pdf).
 
 Papers
 ======
-1. **Muni Sreenivas Pydi** and Varun Jog. ["Adversarial Risk via Optimal Transport and Optimal Couplings."](https://ieeexplore.ieee.org/abstract/document/10210607) IEEE Transactions on Information Theory, 2023.
+1. **Muni Sreenivas Pydi** and Varun Jog. ["The Many Faces of Adversarial Risk: An Expanded Study."](https://ieeexplore.ieee.org/abstract/document/10210607) IEEE Transactions on Information Theory, 2023.
 1. Alexandre Verine, Benjamin Negrevergne, **Muni Sreenivas Pydi** and Yann Chevaleyre. ["Training Normalizing Flows with the Precision-Recall Divergence."](https://arxiv.org/pdf/2302.00628.pdf) arXiv preprint arXiv:2302.00628 (2023).
 1. Eirini Ioannou, **Muni Sreenivas Pydi** and Po-Ling Loh, ["Robust empirical risk minimization via Newton’s method"](https://www.sciencedirect.com/science/article/pii/S2452306223000576), Econometrics and Statistics, 2023.
 1. Lucas Gnecco-Heredia, **Muni Sreenivas Pydi**, Yann Chevaleyre, Benjamin Negrevergne and Laurent Meunier. ["On the Role of Randomization in Adversarially Robust Classification"](https://munisreenivas.github.io/) (under submission), 2023.
