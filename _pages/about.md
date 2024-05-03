@@ -22,6 +22,7 @@ You can find my CV [**here**](/cv.pdf).
 
 Papers
 ======
+1. Ilana Sebag, **Muni Sreenivas Pydi**, Jean-Yves Franceschi, Alain Rakotomamonjy, Mike Gartrell, Jamal Atif, Alexandre Allauzen. ["Differentially Private Gradient Flow based on the Sliced Wasserstein Distance for Non-Parametric Generative Modeling"](https://arxiv.org/pdf/2312.08227) (under submission) 2024.
 1. Alexandre Vérine, **Muni Sreenivas Pydi**, Benjamin Negrevergne, Yann Chevaleyre. ["Optimal Budgeted Rejection Sampling for Generative Models."](https://arxiv.org/pdf/2311.00460) AISTATS 2024.
 1. **Muni Sreenivas Pydi** and Varun Jog. ["The Many Faces of Adversarial Risk: An Expanded Study."](https://ieeexplore.ieee.org/abstract/document/10210607) IEEE Transactions on Information Theory, 2023.
 1. Alexandre Vérine, Benjamin Negrevergne, **Muni Sreenivas Pydi** and Yann Chevaleyre. ["Precision-Recall Divergence Optimization for
