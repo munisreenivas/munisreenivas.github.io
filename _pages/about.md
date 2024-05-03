@@ -22,10 +22,13 @@ You can find my CV [**here**](/cv.pdf).
 
 Papers
 ======
+1. Alexandre Vérine, **Muni Sreenivas Pydi**, Benjamin Negrevergne, Yann Chevaleyre. ["Optimal Budgeted Rejection Sampling for Generative Models."](https://arxiv.org/pdf/2311.00460) AISTATS 2024.
 1. **Muni Sreenivas Pydi** and Varun Jog. ["The Many Faces of Adversarial Risk: An Expanded Study."](https://ieeexplore.ieee.org/abstract/document/10210607) IEEE Transactions on Information Theory, 2023.
-1. Alexandre Verine, Benjamin Negrevergne, **Muni Sreenivas Pydi** and Yann Chevaleyre. ["Training Normalizing Flows with the Precision-Recall Divergence."](https://arxiv.org/pdf/2302.00628.pdf) arXiv preprint arXiv:2302.00628 (2023).
+1. Alexandre Vérine, Benjamin Negrevergne, **Muni Sreenivas Pydi** and Yann Chevaleyre. ["Precision-Recall Divergence Optimization for
+Generative Modeling with GANs and
+Normalizing Flows."](https://proceedings.neurips.cc/paper_files/paper/2023/file/67159f1c0cab15dd34c76a5dd830a389-Paper-Conference.pdf) Neurips, 2023.
 1. Eirini Ioannou, **Muni Sreenivas Pydi** and Po-Ling Loh, ["Robust empirical risk minimization via Newton’s method"](https://www.sciencedirect.com/science/article/pii/S2452306223000576), Econometrics and Statistics, 2023.
-1. Lucas Gnecco-Heredia, **Muni Sreenivas Pydi**, Yann Chevaleyre, Benjamin Negrevergne and Laurent Meunier. ["On the Role of Randomization in Adversarially Robust Classification"](https://munisreenivas.github.io/) (under submission), 2023.
+1. Lucas Gnecco-Heredia, **Muni Sreenivas Pydi**, Yann Chevaleyre, Benjamin Negrevergne and Laurent Meunier. ["On the Role of Randomization in Adversarially Robust Classification."](https://proceedings.neurips.cc/paper_files/paper/2023/file/fa9755043814e7f08d859a286bb83c35-Paper-Conference.pdf) Neurips, 2023.
 1. **Muni Sreenivas Pydi** and Varun Jog. ["The Many Faces of Adversarial Risk."](https://munisreenivas.github.io/) Conference on Neural Information Processing Systems (NeurIPS), 2021.
 1. **Muni Sreenivas Pydi** and Varun Jog. ["Adversarial Risk via Optimal Transport and Optimal Couplings."](https://ieeexplore.ieee.org/document/9496634) IEEE Transactions on Information Theory, 2021.
 1. **Muni Sreenivas Pydi** and Varun Jog. ["Adversarial Risk via Optimal Transport and Optimal Couplings."](http://proceedings.mlr.press/v119/pydi20a/pydi20a.pdf) International Conference on Machine Learning (ICML), 2020.
